@@ -1,0 +1,21 @@
+
+I
+java:S1121".Extract the assignment out of this expression.(ş—”øÿÿÿÿÿ
+J
+java:S1854"5Remove this useless assignment to local variable "b".(–ä@
+P
+java:S1854"5Remove this useless assignment to local variable "a".(½…¥Ãøÿÿÿÿ
+S
+java:S1854	"=Remove this useless assignment to local variable "employee2".(ÏâÅ
+X
+java:S1854"=Remove this useless assignment to local variable "employee1".(ùÛßËøÿÿÿÿ
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ŸÑÍÆ1
+I
+java:S1481".Remove this unused "employee1" local variable.(ùÛßËøÿÿÿÿ
+D
+java:S1481	".Remove this unused "employee2" local variable.(ÏâÅ
+A
+java:S1481"&Remove this unused "a" local variable.(½…¥Ãøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ
